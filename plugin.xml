@@ -64,7 +64,7 @@
             </config>
             
             <pods>
-                <pod name="TwitterKit" spec="~> 3.4.2" />
+                <pod name="TwitterKit5" spec="~> 5.2" />
             </pods>
         </podspec>
 		
